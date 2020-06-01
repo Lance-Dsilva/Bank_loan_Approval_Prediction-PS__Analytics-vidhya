@@ -1,4 +1,3 @@
-# New Document
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
